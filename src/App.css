@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.h1{
+  display: block;
+  align-items: center;
+  justify-content: center;
+  width: 500px;
+  height: 500px;
+}
+
+.pp{
+  display: flex;
+  flex-direction: row;
+  
+}
+
+.tt {
+  margin: 75px;
+}
+
+
